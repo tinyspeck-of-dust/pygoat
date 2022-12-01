@@ -1,5 +1,5 @@
 # Reference: https://help.github.com/en/articles/about-code-owners
 # Remember: Rules further down take precedence.
 
-pygoat/ @@tinyspeck-of-dust/team-awesome
+pygoat/ @tinyspeck-of-dust/team-awesome
 Dockerfile @tinyspeck-of-dust/team-alpha
