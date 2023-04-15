@@ -1,4 +1,4 @@
-FROM python:3.11.0b1-buster
+FROM python:3.12.0a7-buster
 
 # Install dependencies
 RUN apt-get update && apt-get install --no-install-recommends -y libpq-dev=11.16-0+deb10u1 python3-dev=3.7.3-1 postgresql-client=11+200+deb10u4 \
